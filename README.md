@@ -1,5 +1,9 @@
 # Esprit API Client
 
+## Setup service
+
+Define valid user credentials and ES API URL (server)
+
 ## Run as webservice
 
 python3.6 /opt/webservice/webservice.py '' '8081'
