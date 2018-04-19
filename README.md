@@ -6,7 +6,7 @@ Define valid user credentials and ES API URL (server)
 
 ## Run as webservice
 
-python3.6 /opt/webservice/webservice.py '' '8081'
+/usr/bin/python3.6 /opt/webservice/webservice.py '' '8081'
 
 ## Call service
 
